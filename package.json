@@ -1,0 +1,16 @@
+{
+  "name": "orgflow-master",
+  "version": "1.0.0",
+  "description": "It encapsulates the idea of managing the flow and organization of your company's structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.5"
+  }
+}
